@@ -23,7 +23,7 @@ class DataScientist:
     def __init__(self):
         self.name    = "Muhammed Sinan CP"
         self.role    = "Data Science · ML · Business Intelligence"
-        self.based   = "India 🇮🇳"
+        self.based   = "India"
         self.stack   = ["Python", "SQL", "Power BI", "TypeScript", "Kotlin"]
         self.focus   = ["Predictive Analytics", "ML Modeling", "Data Viz"]
 
@@ -79,11 +79,7 @@ class DataScientist:
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhmd-sinan&theme=tokyonight&hide_border=true&background=1a1b27&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED" alt="streak" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhmd-sinan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://streak-stats.demolab.com/?user=muhmd-sinan&theme=tokyonight&hide_border=true&background=1a1b27&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED" alt="streak" />
 
 </div>
 
@@ -116,7 +112,7 @@ class DataScientist:
 
 <div align="center">
 
-<a href="www.linkedin.com/in/muhmd-sinan21">
+<a href="https://www.linkedin.com/in/muhmd-sinan21">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:muhmd.sinan21@gmail.com">
