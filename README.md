@@ -74,8 +74,8 @@ class DataScientist:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhmd-sinan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=06B6D4" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmd-sinan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhmd-sinan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=06B6D4" alt="stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhmd-sinan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED&langs_count=8" alt="top langs" />
 
 <br><br>
 
