@@ -4,13 +4,13 @@
 <div align="center">
 
 <a href="https://github.com/muhmd-sinan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&height=70&lines=Muhammed+Sinan+CP;Data+Scientist+%7C+ML+Engineer;Predictive+Analytics+%26+BI+Developer;Turning+data+into+decisions." alt="Muhammed Sinan CP" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=88C0D0&center=true&vCenter=true&width=650&height=70&lines=Muhammed+Sinan+CP;Data+Scientist+%7C+ML+Engineer;Predictive+Analytics+%26+BI+Developer;Turning+data+into+decisions." alt="Muhammed Sinan CP" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=muhmd-sinan&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/muhmd-sinan?label=Followers&style=for-the-badge&color=06B6D4&labelColor=1a1b27" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-7C3AED?style=for-the-badge&labelColor=1a1b27" alt="focus" />
+  <img src="https://komarev.com/ghpvc/?username=muhmd-sinan&label=Profile%20views&color=88C0D0&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/muhmd-sinan?label=Followers&style=for-the-badge&color=81A1C1&labelColor=2E3440" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-88C0D0?style=for-the-badge&labelColor=2E3440" alt="focus" />
 </p>
 
 </div>
@@ -74,12 +74,12 @@ class DataScientist:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhmd-sinan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=06B6D4" alt="stats" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhmd-sinan&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7C3AED&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhmd-sinan&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1" alt="stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhmd-sinan&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&langs_count=8" alt="top langs" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=muhmd-sinan&theme=tokyonight&hide_border=true&background=1a1b27&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=muhmd-sinan&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=81A1C1&currStreakLabel=88C0D0" alt="streak" />
 
 </div>
 
@@ -101,7 +101,7 @@ class DataScientist:
 
 <div align="center">
   <a href="https://github.com/muhmd-sinan?tab=repositories">
-    <img src="https://img.shields.io/badge/See_all_repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
+    <img src="https://img.shields.io/badge/See_all_repositories-88C0D0?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
   </a>
 </div>
 
