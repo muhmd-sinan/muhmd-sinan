@@ -74,8 +74,8 @@ class DataScientist:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhmd-sinan&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1" alt="stats" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhmd-sinan&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhmd-sinan&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhmd-sinan&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&langs_count=8" alt="top langs" />
 
 <br><br>
 
